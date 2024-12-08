@@ -1,4 +1,7 @@
 
+<img src= https://github.com/user-attachments/assets/02722ee6-edd7-4be1-b7c7-f74a0b0f25d9 width= "1080px"> <br>
+<h1 align= "center"> Hospitality Performance Analysis - Power Bi Project </h1><br>
+
 
 ## Overview:
 The dashboards provide a detailed analysis of hotel performance, focusing on critical metrics such as bookings, revenue, occupancy, and cancellations. They are designed to present trends, compare performance across properties and cities, and highlight areas that require attention.
@@ -8,7 +11,7 @@ Incorporating features like the Previous Month (PM) filter, the dashboards enabl
 
 ## Dashboards Included:
 
-> 1. Hotel Trend Dashboard:
+> 1. HOTEL TREND PAGE:
    
 **Key Features:**
 Summary Metrics: Displays total bookings, average rating, and total check-outs for the selected period.
@@ -33,7 +36,7 @@ PM Filter: Displays metrics with comparisons to the Previous Month (PM) values, 
 
 
 
-> 2. Market Analysis Dashboard:
+> 2. MARKET ANALYSIS PAGE:
 
 **Key Features:**
 Revenue Analysis: Displays total revenue, ADR, and cancellation percentage, including month-on-month comparisons using the PM Filter.
